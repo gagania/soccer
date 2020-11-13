@@ -1,0 +1,11 @@
+- show all teams : localhost:8081/api/teams (GET)
+- create teams : localhost:8081/api/teams (POST)
+- update teams : localhost:8081/api/teams (PUT)
+- delete teams : localhost:8081/api/teams/{id} (DELETE)
+
+- show all player : localhost:8081/api/player (GET)
+- create player : localhost:8081/api/player (POST)
+- update player : localhost:8081/api/player (PUT)
+- delete player : localhost:8081/api/player/{id} (DELETE)
+
+create database name `soccer` then import soccer.sql

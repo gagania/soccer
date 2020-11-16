@@ -8,4 +8,5 @@
 - update player : localhost:8081/api/player (PUT)
 - delete player : localhost:8081/api/player/{id} (DELETE)
 
-create database name `soccer` then import soccer.sql
+1. create database name `soccer` then import soccer.sql
+2. change your db setting username, password and database name in config/config.go
